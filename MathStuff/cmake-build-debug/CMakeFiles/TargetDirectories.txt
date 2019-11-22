@@ -1,0 +1,3 @@
+C:/Users/kusha/Desktop/312/MathStuff/cmake-build-debug/CMakeFiles/MathStuff.dir
+C:/Users/kusha/Desktop/312/MathStuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kusha/Desktop/312/MathStuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir

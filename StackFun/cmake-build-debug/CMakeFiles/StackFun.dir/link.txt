@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\StackFun.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\StackFun.dir/objects.a @CMakeFiles\StackFun.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\StackFun.dir/objects.a -Wl,--no-whole-archive  -o StackFun.exe -Wl,--out-implib,libStackFun.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StackFun.dir\linklibs.rsp

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kusha/Desktop/312/MathStuff/main.c
+stdio.h
+-
+mathStuff.h
+C:/Users/kusha/Desktop/312/MathStuff/mathStuff.h
+
+C:/Users/kusha/Desktop/312/MathStuff/mathStuff.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

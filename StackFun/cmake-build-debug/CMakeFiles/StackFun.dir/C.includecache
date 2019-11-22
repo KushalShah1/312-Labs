@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././stack_arr.h
+stdio.h
+-
+stdbool.h
+-
+
+C:/Users/kusha/Desktop/312/StackFun/driver.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+stack_arr.h
+-
+string.h
+-
+

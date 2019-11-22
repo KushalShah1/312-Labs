@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kusha/Desktop/312/GameOfLife/life.h
+
+C:/Users/kusha/Desktop/312/GameOfLife/life_driver.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+life.h
+C:/Users/kusha/Desktop/312/GameOfLife/life.h
+

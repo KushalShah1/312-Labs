@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="GameOfLife" targetName="GameOfLife" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abf8d616-d1ea-4c06-bb1e-cebbe4831744" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1QW4oS1JbwCZo8aHl3W9268q1NC" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeCamp" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameOfLife" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GameOfLife" TARGET_NAME="GameOfLife" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GameOfLife" RUN_TARGET_NAME="GameOfLife">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abf8d616-d1ea-4c06-bb1e-cebbe4831744" name="Default Changelist" comment="" />
+      <created>1567873192793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567873192793</updated>
+      <workItem from="1567873194169" duration="369000" />
+      <workItem from="1567873663172" duration="34000" />
+      <workItem from="1567873699424" duration="11000" />
+      <workItem from="1567961072913" duration="109000" />
+      <workItem from="1567961217348" duration="215000" />
+      <workItem from="1567975840558" duration="459000" />
+      <workItem from="1568569410450" duration="967000" />
+      <workItem from="1568576371134" duration="209000" />
+      <workItem from="1568593747192" duration="4158000" />
+      <workItem from="1568660688723" duration="4016000" />
+      <workItem from="1568680085162" duration="1866000" />
+      <workItem from="1568821734848" duration="2248000" />
+      <workItem from="1568840421150" duration="7113000" />
+      <workItem from="1568853252724" duration="709000" />
+      <workItem from="1568853980403" duration="3030000" />
+      <workItem from="1568997082947" duration="1866000" />
+      <workItem from="1569691924407" duration="31000" />
+      <workItem from="1570669200830" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

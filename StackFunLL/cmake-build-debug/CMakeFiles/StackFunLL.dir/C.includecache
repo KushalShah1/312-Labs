@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kusha/Desktop/312/StackFunLL/driver.c
+stdio.h
+-
+stdlib.h
+-
+stack_ll.h
+C:/Users/kusha/Desktop/312/StackFunLL/stack_ll.h
+string.h
+-
+
+C:/Users/kusha/Desktop/312/StackFunLL/stack_ll.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+stack_ll.h
+C:/Users/kusha/Desktop/312/StackFunLL/stack_ll.h
+
+C:/Users/kusha/Desktop/312/StackFunLL/stack_ll.h
+stdio.h
+-
+stdbool.h
+-
+
